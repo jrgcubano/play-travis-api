@@ -8,10 +8,10 @@
     "postpublish": "greenkeeper-postpublish"
   },
   "devDependencies": {
-    "commitizen": "2.9.5",
-    "cz-conventional-changelog": "1.2.0",
+    "commitizen": "2.9.6",
+    "cz-conventional-changelog": "2.0.0",
     "greenkeeper-postpublish": "1.0.1",
-    "rimraf": "2.5.4",
+    "rimraf": "2.6.1",
     "semantic-release": "^6.3.2"
   },
   "config": {
