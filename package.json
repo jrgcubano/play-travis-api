@@ -8,7 +8,7 @@
     "postpublish": "greenkeeper-postpublish"
   },
   "devDependencies": {
-    "commitizen": "2.9.6",
+    "commitizen": "3.0.0",
     "cz-conventional-changelog": "2.0.0",
     "greenkeeper-postpublish": "1.1.0",
     "rimraf": "2.6.1",
